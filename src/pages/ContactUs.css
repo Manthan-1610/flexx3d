@@ -1,0 +1,94 @@
+.bg {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://img.freepik.com/free-vector/white-abstract-background_23-2148810353.jpg?w=1380&t=st=1704907561~exp=1704908161~hmac=da6428bde4400098d69482d0065e78bcdd9f8409f89f0e0bb51b213725f8d783'); /* Replace 'your-background-image.jpg' with your image URL or path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Arial', sans-serif; /* Replace with your preferred font */
+  }
+  
+  .contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .contact-content {
+    display: flex;
+    align-items: center;
+    width: 80%;
+    max-width: 900px;
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  .contact-info {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  .content-form {
+    flex: 1;
+    padding-left: 20px;
+  }
+  
+  .social-icons {
+    margin-top: 20px;
+  }
+  
+  .social-icons a {
+    margin-right: 10px;
+  }
+  
+  /* Additional styling for form */
+  .mb-4 {
+    margin-bottom: 1rem;
+  }
+  
+  /* Additional styling for submit button */
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+/* .contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .contact-content {
+    display: flex;
+    align-items: center;
+    width: 80%;
+    max-width: 900px;
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  .contact-info {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  .contact-form {
+    flex: 1;
+    padding-left: 20px;
+  }
+  .social-icons{
+    height: 10%;
+    width: 20%;
+  }
+   */
+  /* Add your additional styles for form fields, social icons, etc. */
